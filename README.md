@@ -1,16 +1,15 @@
 # Bibler
-Have you ever faced the problem of going to the Library in search of a book and you actually search the entire library but still you can’t find that book you want? 
+Have you ever experienced the frustration of searching for a book at the library, only to come up empty-handed after scouring every aisle? It's a common problem, whether the book is simply unavailable or you're unsure where to find it.
 
-The reason being simple either the book is not available in the library at that time or you are not sure where to find it exactly making the seeking process very tedious and time-consuming.
+Enter Bibler - the solution to all your library woes. Bibler is a cutting-edge cross-platform application built on the React Native, Php and MySQL that allows users to easily navigate the entire library with just a few clicks, making the search for your desired book quick and hassle-free.
 
-Well, Don’t Worry, Bibler to the rescue.
+![Bibler_poster](https://user-images.githubusercontent.com/41338131/230224692-9b372104-a5c9-44a1-94d2-e98101a02792.jpg)
 
-![poster](https://github.com/dharan1999/Bibler/blob/Bibler_poster.jpg?raw=true)
+Bibler not only tells you whether the book is available in the library, but also provides the exact location where you can find it, saving you time and effort. And if the book isn't currently available, Bibler will let you know when it's due to arrive.
 
-Bibler is a Cross-Platform application based on the React Native platform which renders users navigate the entire library by a click of a button and seek their desired book. 
+With Bibler, you can carry the entire library in your pocket, making finding your next great read a breeze.
 
-Bibler tells it’s users whether the book is available in the library or not. It even tells where to find it making it extremely simple and incredibly easy for the users.
 
-In case, if the book is not available in the library at that time, then it even tells when it is going to come.
 
-“Carry Library in your Pocket with Bibler”
+
+
