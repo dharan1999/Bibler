@@ -5,6 +5,8 @@ The reason being simple either the book is not available in the library at that 
 
 Well, Don’t Worry, Bibler to the rescue.
 
+![Bibler_poster](Bibler_poster.png)
+
 Bibler is a Cross-Platform application based on the React Native platform which renders users navigate the entire library by a click of a button and seek their desired book. 
 
 Bibler tells it’s users whether the book is available in the library or not. It even tells where to find it making it extremely simple and incredibly easy for the users.
