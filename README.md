@@ -9,7 +9,4 @@ Bibler not only tells you whether the book is available in the library, but also
 
 With Bibler, you can carry the entire library in your pocket, making finding your next great read a breeze.
 
-
-
-
-
+![Features](https://user-images.githubusercontent.com/41338131/230225200-3cf2eea9-304b-4c3a-922f-0f72c6a3d092.jpg)
